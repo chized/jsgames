@@ -1,2 +1,2 @@
 # jsgames
-My Javascript games
+My no-internet Javascript game
